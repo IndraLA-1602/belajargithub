@@ -2,4 +2,9 @@ Hallo Dunia
 
 Mencoba Menambahkan Pembaruan Deskripsi
 
-Mencoba Push Request melalui fork
+Mengembalikan data dengan menggunakan revert
+
+update squash 1
+update squash 2
+update squash 3
+
